@@ -30,7 +30,7 @@ function App() {
         <Header />
         <main>
           {" "}
-          AnishTODO:
+          
           <Outlet />
         </main>
         <Footer />
